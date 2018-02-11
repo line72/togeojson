@@ -24,10 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mapbox/togeojson.git"
+    "url": "git://github.com/line72/togeojson.git"
   },
   "browser": {
-    "xmldom": false
   },
   "browserify": {
     "transform": [
